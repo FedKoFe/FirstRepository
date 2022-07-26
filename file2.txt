@@ -1,5 +1,3 @@
 ffr
 Some other line
-
-f
-ef
+Line from User2
