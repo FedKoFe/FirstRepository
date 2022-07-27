@@ -1,6 +1,9 @@
 Hello World!!!
 
-another line from user1
+
+
+line from user2
+
 fff123456
 gg (from branch master)
 
