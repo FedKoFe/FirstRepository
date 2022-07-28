@@ -6,5 +6,6 @@ line from user2
 
 fff123456
 gg (from branch master)
+fdddffd
 
 
